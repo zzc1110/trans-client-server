@@ -1,5 +1,5 @@
 {
-  "name": "@techmovie/trans-client-server",
+  "name": "@zzc1110/trans-client-server",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -44,12 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/techmovie/trans-client-server.git"
+    "url": "git+https://github.com/zzc1110/trans-client-server.git"
   },
-  "author": "techmovie@github.com",
+  "author": "zzc1110@github.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/techmovie/trans-client-server/issues"
+    "url": "https://github.com/zzc1110/trans-client-server/issues"
   },
-  "homepage": "https://github.com/techmovie/trans-client-server#readme"
+  "homepage": "https://github.com/zzc1110/trans-client-server#readme"
 }
